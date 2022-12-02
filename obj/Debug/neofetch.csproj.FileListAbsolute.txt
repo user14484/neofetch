@@ -1,0 +1,9 @@
+F:\source\repos\neofetch\bin\Debug\neofetch.exe.config
+F:\source\repos\neofetch\bin\Debug\neofetch.exe
+F:\source\repos\neofetch\bin\Debug\neofetch.pdb
+F:\source\repos\neofetch\obj\Debug\neofetch.csproj.AssemblyReference.cache
+F:\source\repos\neofetch\obj\Debug\neofetch.csproj.CoreCompileInputs.cache
+F:\source\repos\neofetch\obj\Debug\neofetch.exe
+F:\source\repos\neofetch\obj\Debug\neofetch.pdb
+F:\source\repos\neofetch\obj\Debug\neofetch.Properties.Resources.resources
+F:\source\repos\neofetch\obj\Debug\neofetch.csproj.GenerateResource.cache
